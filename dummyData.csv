@@ -1,0 +1,35 @@
+﻿participantID,group, pretest , posttest ,diff, diffPercent 
+1,control group, 5.16 , 8.99 , 3.83 , 0.74 
+2,control group, 9.28 , 1.25 , (8.03), (0.87)
+3,control group, 2.39 , 0.81 , (1.58), (0.66)
+4,control group, 9.26 , 5.09 , (4.17), (0.45)
+5,control group, 9.30 , 8.30 , (1.00), (0.11)
+6,control group, 0.99 , 6.96 , 5.97 , 6.03 
+7,control group, 8.20 , 0.29 , (7.91), (0.96)
+8,control group, 2.57 , 6.24 , 3.67 , 1.43 
+9,control group, 5.56 , 0.65 , (4.91), (0.88)
+10,control group, 4.46 , 2.47 , (1.99), (0.45)
+11,control group, 9.13 , 9.14 , 0.01 , -   
+12,control group, 2.74 , 2.90 , 0.16 , 0.06 
+13,control group, 9.30 , 4.85 , (4.45), (0.48)
+14,control group, 9.55 , 7.91 , (1.64), (0.17)
+15,control group, 6.69 , 0.33 , (6.36), (0.95)
+16,control group, 7.09 , 9.74 , 2.65 , 0.37 
+17,control group, 3.36 , 8.75 , 5.39 , 1.60 
+18,experimental group, 8.66 , 5.97 , (2.69), (0.31)
+19,experimental group, 9.50 , 3.92 , (5.58), (0.59)
+20,experimental group, 9.23 , 1.52 , (7.71), (0.84)
+21,experimental group, 3.45 , 3.88 , 0.43 , 0.12 
+22,experimental group, 7.15 , 5.78 , (1.37), (0.19)
+23,experimental group, 5.65 , 0.15 , (5.50), (0.97)
+24,experimental group, 2.33 , 7.73 , 5.40 , 2.32 
+25,experimental group, 3.93 , 4.02 , 0.09 , 0.02 
+26,experimental group, 4.42 , 9.62 , 5.20 , 1.18 
+27,experimental group, 5.52 , 7.44 , 1.92 , 0.35 
+28,experimental group, 7.84 , 7.26 , (0.58), (0.07)
+29,experimental group, 2.49 , 8.27 , 5.78 , 2.32 
+30,experimental group, 3.36 , 3.22 , (0.14), (0.04)
+31,experimental group, 1.76 , 7.20 , 5.44 , 3.09 
+32,experimental group, 5.77 , 4.30 , (1.47), (0.25)
+33,experimental group, 7.43 , 2.73 , (4.70), (0.63)
+34,experimental group, 6.36 , 9.46 , 3.10 , 0.49 
