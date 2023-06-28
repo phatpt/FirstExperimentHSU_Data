@@ -1,4 +1,4 @@
-﻿code,date,age,province,country,s1.1,s1.2,s1.3,s1.4,s1.5,s1.6,s1.7,s1.8,s1.9,s1.10,s2.1,s2.2,s2.3,s2.4,s2.5,s2.6,s2.7,s2.8,s2.9,s2.10,s2.11,s2.12,s2.13,s2.14,s2.15,s2.16,s2.17,s2.18,s2.19,s2.20,translated
+﻿code,date,age,province,country,s1_1,s1_2,s1_3,s1_4,s1_5,s1_6,s1_7,s1_8,s1_9,s1_10,s2_1,s2_2,s2_3,s2_4,s2_5,s2_6,s2_7,s2_8,s2_9,s2_10,s2_11,s2_12,s2_13,s2_14,s2_15,s2_16,s2_17,s2_18,s2_19,s2_20,translated
 s1,6/2/2023,18,Hochiminh city,Vietnam,4,4,5,5,4,4,4,4,5,4,5,3,5,5,4,4,4,4,4,Fulltime student,18-25,1,3,"English, Prepavatory technology",Yes,Yes,4,No comment,The system cares about the interests of users,Informative and easy to understand,Yes
 s2,6/2/2023,18,Hochiminh city,Vietnam,3,4,5,2,4,4,3,5,4,3,3,4,3,3,4,4,5,4,3,Fulltime student,18-25,3,3,"Information technology, English, Preparatory informatics",Yes,Yes,3,Enough,"I think Figure 1 and Figure 2 should use light colors (blue, orange, green)",Enough,No
 s3,6/2/2023,19,Hochiminh city,Vietnam,3,5,5,4,4,4,3,4,5,5,4,4,4,4,3,4,4,5,3,Fulltime student,18-25,5,2,"Programming, Computer Office",Yes,Yes,5,New and creative,System can be update every 3 months,It could cahnge the way of study and outcome students,No
